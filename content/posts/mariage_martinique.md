@@ -1,7 +1,6 @@
 ---
 title: "Martinique - 24/06/2022"
 date: 2021-12-01T21:24:45+01:00
-draft: true
 ---
 
 

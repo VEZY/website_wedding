@@ -1,7 +1,6 @@
 ---
 title: "Mairie - 10/06/2022"
 date: 2021-12-01T21:24:31+01:00
-draft: true
 ---
 
 Le mariage à la mairie se fera le 10/06/2022 à 11h00 au Château de Grammont, 2733B Av. Albert Einstein, 34000 Montpellier.
