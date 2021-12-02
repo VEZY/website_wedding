@@ -1,12 +1,12 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://www.amandine-et-remi.fr/"
 title = "Amandine & Rémi"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+# copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 # Name of theme
 theme = "meme"
@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # The length of text in words to show in summary
-summaryLength = 42
+summaryLength = 60
 
 # Enable Emoji emoticons support?
 enableEmoji = false
@@ -202,12 +202,12 @@ uglyURLs = false
 
 [menu]
     ## Menu bar
-    # [[menu.main]]
-    #     pageref = "/"
-    #     name = "Home"
-    #     weight = 1
-    #     pre = "internal"
-    #     post = "home"
+    [[menu.main]]
+        pageref = "/"
+        name = "Home"
+        weight = 1
+        pre = "internal"
+        post = "home"
     [[menu.main]]
         pageref = "/posts/"
         name = "Posts"
@@ -316,7 +316,7 @@ uglyURLs = false
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = []
+    homePoetry = ["# In the dark night", "Test"]
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -1154,16 +1154,14 @@ uglyURLs = false
     displayShareOnText = false
 
     shareOnTwitter = true
-    shareOnFacebook = true
-    shareOnLinkedIn = true
+    shareOnFacebook = false
+    shareOnLinkedIn = false
     shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
-
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = false
     shareViaQRCode = true
-
 
     ######################################
     # Related Posts

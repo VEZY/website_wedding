@@ -4,15 +4,29 @@ date: 2021-12-01T21:24:45+01:00
 ---
 
 
-Le mariage en Martinique se déroulera au Club Med Les Boucaniers.
+Le mariage en Martinique se déroulera au LÔ Beach Club, au Club Med Les Boucaniers.
 
-La cérémonie laïque débutera à 16h00.
+Nous aurons le plaisir de vous accueillir à 16h00 pour la cérémonie laïque.
+
+Voici le point GPS pour vous y rendre:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3863.5772378641855!2d-60.88568478543391!3d14.451510584587895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c4023e0a4d18f75%3A0xbf60bdf33580c136!2sL%C3%94%20Beach%20Club%20-%20Les%20Boucaniers!5e0!3m2!1sfr!2sfr!4v1638480394362!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+## Activités pré-mariage
+
+Nous organisons quelques activités la semaine précédant le mariage:
+
+- Un pique-nique à la plage des salines le 18/06:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7728.877420903234!2d-60.884578276627025!3d14.401855251428008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c40236d96789ccb%3A0xd8a429bc7b7dc6b9!2sPlage%20des%20Salines!5e0!3m2!1sfr!2sfr!4v1638481370887!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+- Une beach party au restaurant le Yemanja le 22/06, toute la journée, jusqu'au soir!
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7718.235339824256!2d-61.183868000000004!3d14.705937!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5297f1b4fac02d4e!2sYEMANJA%20MARTINIQUE!5e0!3m2!1sfr!2sfr!4v1638481411380!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+- Une visite de distillerie (une habitation) le 23/06. Le lieu vous sera communiqué prochainement.
 
 ## Détails pratiques
-
-### Indications
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2349.2465358130817!2d-60.88457928334779!3d14.448439799975292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c4023e627e9154f%3A0xe834fb6ae98d378f!2sClub%20Med%20Les%20Boucaniers%20-%20Martinique!5e0!3m2!1sfr!2sfr!4v1638390888360!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ### Louer une voiture
 
