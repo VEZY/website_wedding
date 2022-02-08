@@ -1,5 +1,5 @@
 ---
-title: "Martinique - 24/06/2022"
+title: "Amandine et Rémi - Martinique - Juin 2022"
 date: 2021-12-01T21:24:45+01:00
 ---
 
@@ -18,6 +18,8 @@ On mettra le site à jour régulièrement et on y ajoutera une liste des immanqu
 Le mariage en Martinique se déroulera au LÔ Beach Club, au Club Med Les Boucaniers le vendredi 24 juin.
 
 On vous accueillera avec grand plaisir à 16h00 pour la cérémonie laïque.
+
+**Si vous le souhaitez, nous avons négocié pour vous une réduction sur la nuit d'hôtel du 24 au club med ! Si vous êtes intéressés, écrivez-nous au plus vite au 0619703543 pour nous dire combien de chambres réserver.**
 
 Voici le point GPS pour vous y rendre:
 
