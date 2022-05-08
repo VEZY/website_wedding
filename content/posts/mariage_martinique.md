@@ -8,18 +8,24 @@ Salut à tous et bienvenue sur notre site internet du mariage 🤗.
 
 Vous trouverez ici une compilation d'un maximum d'informations pour que vous puissiez passer un super séjour sur la plus belle île du monde, et c'est uniquement parce que l'Aveyron n'est pas une île... Hé-hé.
 
+🎁Au sujet du cadeau de mariage 🎁, comme la plupart d'entre vous le savent nous sommes en cours de création d'une startup🍾, du coup chaque don pour le cadeau de mariage sera utilisé pour la création de l'entreprise grace à vous! 😀🥳
+
+Si vous souhaitez y participer:
+
+- vous pouvez le faire dès aujourd'hui via PayPal (y compris par CB) à ce lien
+<https://www.paypal.me/AmandineEtRemi?locale.x=fr_FR>, cliquez sur Envoyer:
+    ![Paypal](/www/paypal.png)
+- ou alors participer le jour même via l'urne 🐖📦.
+
 Vous trouverez les informations sur le mariage mais également sur les évènements que nous organisons les jours précédents! Vous trouverez également des informations pratiques : ou se loger, ou louer une voiture, que faire si j'ai besoin d'une poussette, d'un siège auto etc...et quoi mettre dans votre valise !
 
 On mettra le site à jour régulièrement et on y ajoutera une liste des immanquables en Martinique et nos addresses préférés de restaurants, plages, activités à faire... Dans tous les cas n'hésitez pas à nous contacter !
-
 
 **Surtout n'oubliez pas de nous dire dès que vous avez pris vos billets d'avion, quelles sont vos dates, et si vous participez ou non au activités !**
 
 Le mariage en Martinique se déroulera au LÔ Beach Club, au Club Med Les Boucaniers le vendredi 24 juin.
 
 On vous accueillera avec grand plaisir à 16h00 pour la cérémonie laïque.
-
-**Si vous le souhaitez, nous avons négocié pour vous une réduction sur la nuit d'hôtel du 24 au club med ! Si vous êtes intéressés, écrivez-nous au plus vite au 0619703543 pour nous dire combien de chambres réserver.**
 
 Voici le point GPS pour vous y rendre:
 
@@ -48,6 +54,8 @@ Nous conseillons vivement aux non-locaux de louer une voiture sur place.
 Nous recommandons de louer chez [Auto Discount](https://www.auto-discount.fr/location-voitures-martinique).
 
 Vous pouvez aussi louer chez [Alizés locations](https://www.alizes-locations-martinique.com/) si vous avez besoin d'un siege auto.
+
+Vous pouvez encore louer chez [Happy rent](https://www.happyrent.fr/).
 
 <!-- ![](/www/location_voiture.jpg) -->
 
