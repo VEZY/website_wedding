@@ -6,6 +6,10 @@ date: 2021-12-01T21:24:45+01:00
 
 Salut à tous et bienvenue sur notre site internet du mariage 🤗.
 
+🎉🎉🎉 Les photos et vidéos du mariage sont disponibles !!! 🎉🎉🎉
+
+Vous pouvez les retrouver [sur le drive ici 😀🥳](https://drive.google.com/drive/folders/10jAj6aiTQIqk1FyPFkc_ZAQ9pu8mligA?usp=sharing)
+
 Vous trouverez ici une compilation d'un maximum d'informations pour que vous puissiez passer un super séjour sur la plus belle île du monde, et c'est uniquement parce que l'Aveyron n'est pas une île... Hé-hé.
 
 🎁Au sujet du cadeau de mariage 🎁, comme la plupart d'entre vous le savent nous sommes en cours de création d'une startup🍾, du coup chaque don pour le cadeau de mariage sera utilisé pour la création de l'entreprise grace à vous! 😀🥳
